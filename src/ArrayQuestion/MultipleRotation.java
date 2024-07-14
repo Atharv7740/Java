@@ -1,11 +1,17 @@
 package ArrayQuestion;
 
 public class MultipleRotation {
-    public static void main(String[] args) {
+    protected int mul1;
+    public int mul2;
+    public static void main(String[] args)  {
         int a[]={1,2,3,4,5};
         int b[]={2,3};
 
         int ans[][]=new int[b.length][a.length];
+
+
+
+
 
 
     }

@@ -5,6 +5,7 @@ public class TrailClass2 {
     private int privateVar2;
     protected int protectedVar2;
     int defaultVar2;
+    protected static int staticVar2;
 
     public void publicMeth2(){
         System.out.println("Hello form publicMeth2");
@@ -24,10 +25,10 @@ public class TrailClass2 {
         System.out.println("Hello form defaultMeth2");
 
     }
-    TrailClass2(){
-    }
 
     public static void main(String[] args) {
+        System.out.println(TrailClass2.staticVar2);
+
 
 
 
@@ -39,6 +40,10 @@ public class TrailClass2 {
 }
 
 class TrailClass2_SubClass extends TrailClass2{
+
+}
+class AiseHi{
+
 
 }
 
