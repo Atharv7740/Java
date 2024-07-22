@@ -2,7 +2,6 @@ package Recursion;
 
 public class LinearRecursionTest {
     public static void main(String[] args) {
-        bar(3);
 
     }
     static void bar(int n){
@@ -10,9 +9,8 @@ public class LinearRecursionTest {
             System.out.println(n);
             bar(n-1);
             bar(n-1);
-            bar(n-1);
+
         }
     }
-
 }
 
