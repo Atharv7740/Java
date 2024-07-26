@@ -5,6 +5,7 @@ public class BasicRecursion {
         if(n>0){
             System.out.println(n);
             fun(n-1);
+            fun(n-1);
             System.out.println(n);
         }
 
