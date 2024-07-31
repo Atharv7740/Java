@@ -10,6 +10,7 @@ public class LinearRecursionTest {
             bar(n-1);
             bar(n-1);
             bar(n-2);
+            bar(n-3);
 
         }
     }
