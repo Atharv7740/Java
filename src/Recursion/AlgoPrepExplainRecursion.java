@@ -5,6 +5,7 @@ public class AlgoPrepExplainRecursion {
         int n=3;
         System.out.println("Sum of Natural number from 1 to "+ n+":"+sumNatural(n));
         System.out.println("no more problems today");
+        System.out.println("Enough of dsa today");
 
 
     }
