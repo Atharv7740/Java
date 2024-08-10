@@ -11,6 +11,7 @@ public class PairExist {
             for(int i=0;i<n;i++){
                 arr[i]=sc.nextInt();
             }
+            System.out.println("Enter the value of K: ");
             int k=sc.nextInt();
             System.out.println(pairExist(arr,k));
 
