@@ -17,7 +17,9 @@ public class StringPalindrome {
     }
 
     public static void main(String[] args) {
+
         System.out.println(isPalindrome("abcdbaaabs"));
+        System.out.println("Code Run successfully");
 
 
     }
