@@ -4,6 +4,7 @@ public class SubsetOfString {
     public static void main(String[] args) {
         System.out.println("Inside main class");
         subsetOfGivenString("abc");
+        System.out.println("main over");
 
     }
     public static void subsetOfGivenString(String s){
