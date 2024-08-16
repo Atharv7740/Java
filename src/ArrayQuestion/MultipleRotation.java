@@ -8,6 +8,7 @@ public class MultipleRotation {
         int b[]={4,5};
 
         int ans[][]=new int[b.length][a.length];
+        System.out.println("Program completed without any error");
 
 
 
