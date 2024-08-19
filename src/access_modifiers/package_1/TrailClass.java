@@ -20,6 +20,7 @@ public class TrailClass extends MultipleRotation {
 
 class TrailClass_SubClass extends TrailClass{
 
+
 }
 
 
