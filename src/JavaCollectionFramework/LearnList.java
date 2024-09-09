@@ -25,6 +25,7 @@ public class LearnList {
         l3.add(90);
         l3.add(100);
         System.out.println("Code begin");
+        System.out.println("no time to waste");
 
         System.out.print("Created List: ");
         System.out.println(l);
