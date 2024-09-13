@@ -28,6 +28,8 @@ public class LearnList {
         System.out.println("no time to waste");
         System.out.println("System design");
         System.out.println("compiler design");
+        System.out.println("Nothing to print");
+
 
         System.out.print("Created List: ");
         System.out.println(l);
