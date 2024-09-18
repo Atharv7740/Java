@@ -94,6 +94,8 @@ public class LearnList {
 
         for(int n=0; n<l2.size(); n++){
             System.out.println(l2.get(n));
+            System.out.println();
+
         }
 
 
